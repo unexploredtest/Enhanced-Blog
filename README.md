@@ -2,7 +2,7 @@
 
 ## 🚀 Features
 
-- Django 3.1 & Python 3.8
+- Django 3.2 & Python 3.8
 - Install via [Pip](https://pypi.org/project/pip/), [Pipenv](https://pypi.org/project/pipenv/)
 - Static files configured with [Whitenoise](http://whitenoise.evans.io/en/stable/index.html)
 - Styling with [Bootstrap v4](https://github.com/twbs/bootstrap)
